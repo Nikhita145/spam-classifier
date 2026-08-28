@@ -11,7 +11,7 @@ This project demonstrates a complete, basic NLP + ML pipeline:
 - Evaluation using accuracy, precision, recall, and F1-score
 - An interactive Streamlit demo app
 
-![App Screenshot](screenshots/streamlit.png)
+![App Screenshot](screenshots/Streamlit.png)
 
 ## 🗂️ Project Structure
 
